@@ -1,5 +1,3 @@
-# SCT_WD_02
-stop-watch webapplication
 <!DOCTYPE html>
 <html lang="en">
 <head>
